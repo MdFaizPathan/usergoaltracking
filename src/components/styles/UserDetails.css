@@ -1,0 +1,55 @@
+/* Add UserDetails styles here */
+.user-details-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    padding: 20px;
+  }
+  
+  .user-details-modal h3 {
+    margin-bottom: 20px;
+    font-size: 22px;
+  }
+  
+  .user-details-modal .goals-list {
+    max-height: 300px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+  }
+  
+  .user-details-modal .goal-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .user-details-modal .goal-item:last-child {
+    border-bottom: none;
+  }
+  
+  .user-details-modal .goal-item span {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .user-details-modal button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .user-details-modal button:hover {
+    background-color: #0056b3;
+  }
+  
