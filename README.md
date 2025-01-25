@@ -32,7 +32,16 @@ This is a React-based **User Goal Tracking** application that helps manage users
 
 ## Screenshot
 
-![Image](https://github.com/user-attachments/assets/0aaa29be-82f2-4e1a-aa7e-9d7efcf1930a)
+![Image](https://github.com/user-attachments/assets/683ec1c6-6369-45de-ba4f-756592991ef2)
+
+---
+![Image](https://github.com/user-attachments/assets/1ebb15e4-1896-4f74-bd00-fe467f65fbe5)
+
+---
+![Image](https://github.com/user-attachments/assets/12bfb02c-d6a2-4bd8-a044-6dda5b5a956b)
+
+---
+![Image](https://github.com/user-attachments/assets/9239a0a9-74d9-4165-8320-1a33bdf3e457)
 
 ---
 
@@ -109,7 +118,7 @@ Follow these steps to run the project locally:
 2. Push your project to a Git repository (e.g., GitHub).
 3. Connect your repository to Vercel.
 4. Deploy using default React settings (build command: `npm run build`, output directory: `build`).
-
+5. Access the deployed application at: [User Goal Tracking on Vercel](https://usergoaltracking.vercel.app/).
 ---
 
 ## Dependencies
