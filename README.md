@@ -53,31 +53,10 @@ This is a React-based **User Goal Tracking** application that helps manage users
 
 ---
 
-## Folder Structure
+## Project Structure
 
-```
-user-goal-tracking/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── UserList.js
-│   │   ├── UserForm.js
-│   │   ├── UserDetails.js
-│   │   └── GoalSummary.js
-│   ├── styles/
-│   │   ├── App.css
-│   │   ├── GoalSummary.css
-│   │   ├── UserDetails.css
-│   │   ├── UserForm.css
-│   │   └── UserList.css
-│   ├── App.js
-│   ├── index.js
-│   └── index.css
-├── package.json
-└── README.md
-```
+![Image](https://github.com/user-attachments/assets/28679d96-b108-4564-8d83-f0745b3203bb)
+
 
 ---
 
